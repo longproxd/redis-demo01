@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": "e182115a-63d2-42ce-8fe0-5f696ecdfba6",
+            "name": "Words of Radiance",
+            "price": "9.99",
+            "stock": 0
+        },
+        {
+            "id": "f9a6d214-1c38-47ab-a61c-c99a59438b12",
+            "name": "Harry Potter and the Deathly Hallows",
+            "price": "9.98",
+            "stock": 7
+        },
+        {
+            "id": "1f1321bb-0542-45d0-9601-2a3d007d5842",
+            "name": "The Return of the King",
+            "price": "25.01",
+            "stock": 5
+        },
+        {
+            "id": "f5384efc-eadb-4d7b-a131-36516269c218",
+            "name": "Crooked Kingdom",
+            "price": "8.97",
+            "stock": 0
+        },
+        {
+            "id": "6d6ca89d-fbc2-4fc2-93d0-6ee46ae97345",
+            "name": "Project Hail Mary",
+            "price": "14.99",
+            "stock": 2
+        },
+        {
+            "id": "efe0c7a3-9835-4dfb-87e1-575b7d06701a",
+            "name": "Where the Crawdads Sing",
+            "price": "9.98",
+            "stock": 8
+        },
+        {
+            "id": "x341115a-63d2-42ce-8fe0-5f696ecdfca6",
+            "name": "The Hero of Ages",
+            "price": "8.54",
+            "stock": 4
+        },
+        {
+            "id": "42860491-9f15-43d4-adeb-0db2cc99174a",
+            "name": "The Last Olympian",
+            "price": "10.44",
+            "stock": 23
+        },
+        {
+            "id": "63a3c635-4505-4588-8457-ed04fbb76511",
+            "name": "The Hate U Give",
+            "price": "11.95",
+            "stock": 1
+        },
+        {
+            "id": "97a19842-db31-4537-9241-5053d7c96239",
+            "name": "A Storm of Swords",
+            "price": "4.34",
+            "stock": 13
+        },
+        {
+            "id": "5364e1a4-fc86-4191-bea7-12faa2e305a6",
+            "name": "The Wise Man's Fear",
+            "price": "7.02",
+            "stock": 1
+        },
+        {
+            "id": "1d6b9a0b-d18c-4592-933e-b2d408c1bba6",
+            "name": "The House of Hades",
+            "price": "12.20",
+            "stock": 3
+        }
+    ]
+}
